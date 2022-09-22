@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/learn/computer_science/Digital_Image_Processing/project2/test.c
+stdio.h
+-
+malloc.h
+-
+stdlib.h
+-
+Windows.h
+-
+

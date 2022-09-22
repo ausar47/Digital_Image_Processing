@@ -1,0 +1,9 @@
+﻿  HW4.c
+E:\learn\computer_science\Digital_Image_Processing\project4\HW4\HW4\HW4.c(215,30): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\learn\computer_science\Digital_Image_Processing\project4\HW4\HW4\HW4.c(282,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn\computer_science\Digital_Image_Processing\project4\HW4\HW4\HW4.c(283,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\learn\computer_science\Digital_Image_Processing\project4\HW4\HW4\HW4.c(327,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn\computer_science\Digital_Image_Processing\project4\HW4\HW4\HW4.c(370,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn\computer_science\Digital_Image_Processing\project4\HW4\HW4\HW4.c(518,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\learn\computer_science\Digital_Image_Processing\project4\HW4\HW4\HW4.c(565,1): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  HW4.vcxproj -> E:\learn\computer_science\Digital_Image_Processing\project4\HW4\Debug\HW4.exe

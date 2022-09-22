@@ -1,0 +1,4 @@
+E:/learn/computer_science/Digital_Image_Processing/project2/cmake-build-debug/CMakeFiles/project2.dir
+E:/learn/computer_science/Digital_Image_Processing/project2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/learn/computer_science/Digital_Image_Processing/project2/cmake-build-debug/CMakeFiles/test.dir
+E:/learn/computer_science/Digital_Image_Processing/project2/cmake-build-debug/CMakeFiles/edit_cache.dir

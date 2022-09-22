@@ -1,0 +1,3 @@
+"E:\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Digital_Image_Processing.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\ar.exe cr CMakeFiles\Digital_Image_Processing.dir/objects.a @CMakeFiles\Digital_Image_Processing.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Digital_Image_Processing.dir/objects.a -Wl,--no-whole-archive -o Digital_Image_Processing.exe -Wl,--out-implib,libDigital_Image_Processing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Digital_Image_Processing.dir\linklibs.rsp

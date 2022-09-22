@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/learn/computer_science/Digital_Image_Processing/project2/main.c
+stdio.h
+E:/learn/computer_science/Digital_Image_Processing/project2/stdio.h
+
